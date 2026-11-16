@@ -1,0 +1,52 @@
+Origin,Destination,Distance_km,Avg_Speed_kmh,Double_Track
+New Delhi,Kota,465,110,Yes
+Kota,Ratlam,266,105,Yes
+Ratlam,Vadodara,261,100,Yes
+Vadodara,Surat,129,110,Yes
+Surat,Mumbai,263,100,Yes
+New Delhi,Agra Cantt,195,115,Yes
+Agra Cantt,Gwalior,118,110,Yes
+Gwalior,Jhansi,97,105,Yes
+Jhansi,Bhopal,291,110,Yes
+Bhopal,Itarsi,92,95,Yes
+Itarsi,Nagpur,298,95,Yes
+Nagpur,Balharshah,208,90,Yes
+Balharshah,Kazipet,235,95,Yes
+Kazipet,Vijayawada,217,95,Yes
+Vijayawada,Chennai,430,105,Yes
+New Delhi,Kanpur,440,115,Yes
+Kanpur,Prayagraj,195,110,Yes
+Prayagraj,Pt Deen Dayal Upadhyaya,153,105,Yes
+Pt Deen Dayal Upadhyaya,Gaya,205,100,Yes
+Gaya,Dhanbad,201,95,Yes
+Dhanbad,Asansol,59,90,Yes
+Asansol,Kolkata,200,100,Yes
+Pt Deen Dayal Upadhyaya,Patna,212,95,Yes
+Patna,Asansol,332,90,Yes
+Mumbai,Pune,192,80,Yes
+Pune,Solapur,311,85,Yes
+Solapur,Wadi,185,80,No
+Wadi,Guntakal,230,85,No
+Guntakal,Renigunta,310,90,Yes
+Renigunta,Chennai,137,85,Yes
+Kolkata,Kharagpur,116,95,Yes
+Kharagpur,Bhubaneswar,322,95,Yes
+Bhubaneswar,Visakhapatnam,443,90,Yes
+Visakhapatnam,Rajahmundry,201,90,Yes
+Rajahmundry,Vijayawada,149,95,Yes
+Nagpur,Durg,265,85,Yes
+Durg,Raipur,37,85,Yes
+Raipur,Bilaspur,111,80,Yes
+Bilaspur,Rourkela,305,80,Yes
+Rourkela,Tatanagar,163,85,Yes
+Tatanagar,Kharagpur,134,90,Yes
+Itarsi,Jabalpur,245,90,Yes
+Jabalpur,Katni,91,85,Yes
+Katni,Prayagraj,276,80,No
+Bhopal,Ujjain,184,85,Yes
+Ujjain,Ratlam,97,85,Yes
+Guntakal,Bengaluru,280,85,Yes
+Chennai,Bengaluru,360,95,Yes
+Pune,Miraj,279,75,No
+Miraj,Hubballi,279,75,No
+Hubballi,Bengaluru,469,85,Yes
