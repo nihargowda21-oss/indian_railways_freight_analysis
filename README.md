@@ -32,10 +32,11 @@ diversion route?
 | `indian_railways_freight_analysis.ipynb` | Explained, runnable analysis notebook |
 | `indian_railways.csv` | Track-section data used by the notebook |
 | `requirements.txt` | Python packages needed to run the project |
+| `outputs/` | Generated analysis tables and figures |
 
-The notebook creates an `outputs/` folder when run. It saves the route
-comparison figure, a distance-versus-time figure, a distance adjacency matrix,
-and critical-section results there.
+The notebook creates or refreshes the `outputs/` folder when run. The generated
+tables and figures are included in this repository so they can be reviewed
+without running the notebook first.
 
 ## Setup and run
 
@@ -93,7 +94,5 @@ source and reuse terms before redistributing it publicly.
 - Keep the notebook, CSV, README, and requirements file together in the
   repository.
 - Run the notebook from top to bottom and confirm that all cells complete.
-- Review generated figures and tables, and remove any private or unrelated
-  files before publishing.
 - Do not commit the virtual environment (`.venv/`) or temporary notebook
   checkpoints.

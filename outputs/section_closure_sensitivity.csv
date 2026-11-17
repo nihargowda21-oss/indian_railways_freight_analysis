@@ -1,0 +1,52 @@
+Section,Extra_shortest_distance_km,Extra_shortest_time_h,Was_single_track
+Balharshah - Kazipet,568.0,7.69959774902264,False
+Kazipet - Vijayawada,568.0,7.69959774902264,False
+Itarsi - Nagpur,568.0,7.69959774902264,False
+Vijayawada - Chennai,568.0,7.69959774902264,False
+Nagpur - Balharshah,568.0,7.69959774902264,False
+Bhopal - Itarsi,454.0,5.535560118229387,False
+Agra Cantt - Gwalior,311.0,3.728844897642851,False
+Gwalior - Jhansi,311.0,3.728844897642851,False
+Jhansi - Bhopal,311.0,3.728844897642851,False
+New Delhi - Agra Cantt,311.0,3.728844897642851,False
+New Delhi - Kota,0.0,0.0,False
+Ratlam - Vadodara,0.0,0.0,False
+Kota - Ratlam,0.0,0.0,False
+Surat - Mumbai,0.0,0.0,False
+Vadodara - Surat,0.0,0.0,False
+New Delhi - Kanpur,0.0,0.0,False
+Kanpur - Prayagraj,0.0,0.0,False
+Prayagraj - Pt Deen Dayal Upadhyaya,0.0,0.0,False
+Pt Deen Dayal Upadhyaya - Gaya,0.0,0.0,False
+Gaya - Dhanbad,0.0,0.0,False
+Dhanbad - Asansol,0.0,0.0,False
+Asansol - Kolkata,0.0,0.0,False
+Pt Deen Dayal Upadhyaya - Patna,0.0,0.0,False
+Patna - Asansol,0.0,0.0,False
+Mumbai - Pune,0.0,0.0,False
+Pune - Solapur,0.0,0.0,False
+Solapur - Wadi,0.0,0.0,True
+Wadi - Guntakal,0.0,0.0,True
+Guntakal - Renigunta,0.0,0.0,False
+Renigunta - Chennai,0.0,0.0,False
+Kolkata - Kharagpur,0.0,0.0,False
+Kharagpur - Bhubaneswar,0.0,0.0,False
+Bhubaneswar - Visakhapatnam,0.0,0.0,False
+Visakhapatnam - Rajahmundry,0.0,0.0,False
+Rajahmundry - Vijayawada,0.0,0.0,False
+Nagpur - Durg,0.0,0.0,False
+Durg - Raipur,0.0,0.0,False
+Raipur - Bilaspur,0.0,0.0,False
+Bilaspur - Rourkela,0.0,0.0,False
+Rourkela - Tatanagar,0.0,0.0,False
+Tatanagar - Kharagpur,0.0,0.0,False
+Itarsi - Jabalpur,0.0,0.0,False
+Jabalpur - Katni,0.0,0.0,False
+Katni - Prayagraj,0.0,0.0,True
+Bhopal - Ujjain,0.0,0.0,False
+Ujjain - Ratlam,0.0,0.0,False
+Guntakal - Bengaluru,0.0,0.0,False
+Chennai - Bengaluru,0.0,0.0,False
+Pune - Miraj,0.0,0.0,True
+Miraj - Hubballi,0.0,0.0,True
+Hubballi - Bengaluru,0.0,0.0,False
