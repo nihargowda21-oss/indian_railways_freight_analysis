@@ -30,6 +30,7 @@ diversion route?
 | File | Purpose |
 | --- | --- |
 | `indian_railways_freight_analysis.ipynb` | Explained, runnable analysis notebook |
+| `dijkstra_algorithm_trace.ipynb` | Iteration-by-iteration Dijkstra shortest-distance trace |
 | `indian_railways.csv` | Track-section data used by the notebook |
 | `requirements.txt` | Python packages needed to run the project |
 | `outputs/` | Generated analysis tables and figures |
@@ -61,9 +62,10 @@ python -m pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open `indian_railways_freight_analysis.ipynb` and run the cells from top to
-bottom. Keep the CSV beside the notebook; the notebook reads it using a
-project-relative path.
+Open either notebook and run its cells from top to bottom. The Dijkstra trace
+notebook shows each settled junction, every tentative-distance update, route
+reconstruction, and a comparison with NetworkX. Keep the CSV beside the
+notebooks; they read it using a project-relative path.
 
 ## Method and interpretation
 
